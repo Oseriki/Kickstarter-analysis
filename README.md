@@ -1,8 +1,8 @@
 # Kickstarter Challenge
 
 ## The purpose of this project is to explore how fundraising campaigns in the Kickstarter dataset fared based on the following two factors; 
--	their launch date, particularly the launch months and 
--	funding goals. 
+1.	their launch date, particularly the launch months and 
+2.	funding goals. 
 
 ## Analysis and Challenges
 
@@ -39,11 +39,11 @@
 
 ## Results
 
--	Below are the conclusions drawn from the Theater Outcomes Based on Launch Date analysis:
+-	Below are the conclusions drawn from the Theater Outcomes Based on Launch Date analysis (See line chart titled "Outcome Based on Launch Date" in the resources folder):
 1.	There are more successful campaigns than failed and canceled campaigns. This indicates that the kickstarter fundraising platform is effective. 
 2.	Campaigns launched in May, June, and July tend to be more successful than those launched in other months of the year. This result indicates that Louise have higher chances of launching successful campaigns during these months, May, June and July.
 
--	Below is the main conclusion drawn from the Outcomes based on Goals analysis (see line chart below):
+-	Below is the main conclusion drawn from the Outcomes based on Goals analysis (See line chart titled "Outcome Based on Goals" in the resources folder):
  - Campaign goal amount within the range of 1000 to 4999 have higher chances to be successful (76% and 73%, respectively) than those that are higher goals. Also, the analysis shows that campaign goal amounts within Louise’s goal range (10000) have 45% chance to be successful. This indicate that Louise’s campaign goal have a higher chance to be successful if the goal is reduced to the range of 1000 and 4999.  
 
 - Followings are some limitations of the dataset that can also affect the application of insights drawn from above analyses:
