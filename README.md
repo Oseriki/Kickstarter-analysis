@@ -1,28 +1,3 @@
-# Kickstarter-analysis
-## Analysis of kickstart data to uncover trends
-### To determine specific factors that make project campaigns successful
-## Analysis and Challenges
-### Analysis of campaign outcomes based on Launch Date
-![Outcome Based on Launch Date](https://user-images.githubusercontent.com/88128466/129490353-ffe38752-5a1b-4f2d-9dd6-6f6eeb07730c.png)
-### Analysis of outcomes based on Campaign Categories
-![Outcome Based on Campaign Categories](https://user-images.githubusercontent.com/88128466/129490429-46450332-34a8-4121-831f-0e905af82f00.png)
-### Analysis of outcomes based on Theater Subcategories
-![Outcome Based on Theater Categories](https://user-images.githubusercontent.com/88128466/129490455-0365fc03-e093-4804-8db9-91269cad56de.png)
-### Analysis of Descriptive Statistics of Successful and Failed Campaigns
-![Descriptive Statistics](https://user-images.githubusercontent.com/88128466/129490481-f1af891c-3b5d-48e6-9155-3ed552ab2122.png)
-### Analysis of five Edinburgh Festival Plays
-![Descriptive Statistics](https://user-images.githubusercontent.com/88128466/129490700-d159ada2-04a7-4f3b-8d29-be3a151bde5b.png)
-Challenges encountered Outliers
-![Outlier Analysis Chart](https://user-images.githubusercontent.com/88128466/129490726-0dad6648-0b37-4fd2-bd28-08bdd8cc7bde.PNG)
-## Results
-### February, May, and June are the top three months for successful campaigns
-### January, July and October are the top three months for failed campaigns
-### Theater campaigns are the most campaigns, followed by Music and film categories
-### In the Theater Category, Plays are the most successful campaigns having huge margin over Musicals and Spaces
-### Descriptive Statistics results show that failed Kickstarter campaigns have much higher fundraising goals than successful Kickstarter campaigns. Also, Louise Kickstarter goal is more than twice the average successful Kickstarter goal, so this doesn't look good. 
-### Results from measure of Spread analysis shows that some large values, i.e., outliers are driving all of these distributions 
-
-
 # Kickstarter Challenge
 
 ## The purpose of this project is to explore how fundraising campaigns in the Kickstarter dataset fared based on the following two factors; 
@@ -78,3 +53,30 @@ Challenges encountered Outliers
 2.	Second, outlier analysis conducted to identify any unusually different data points in the dataset confirmed that such data points are present. For example, the outlier analysis identified two successful campaigns goals that are greater than 50000. This indicates that findings for successful campaigns are likely to be influenced by these the two huge campaign goals. I recommend for Louise to consider this while deciding whether to completely rely on above conclusions or not.
 
 -	A pivot table showing the association of “country” and campaign outcomes could be created to further gain insights from the Kickstarter data. This will allow us to know whether campaign outcomes are driven by location, i.e., country. If this assumption is supported, Louise could use such information to create her campaign at a location where the campaign will have a higher likelihood to be successful.  
+
+
+# Kickstarter-analysis
+## Analysis of kickstart data to uncover trends
+### To determine specific factors that make project campaigns successful
+## Analysis and Challenges
+### Analysis of campaign outcomes based on Launch Date
+![Outcome Based on Launch Date](https://user-images.githubusercontent.com/88128466/129490353-ffe38752-5a1b-4f2d-9dd6-6f6eeb07730c.png)
+### Analysis of outcomes based on Campaign Categories
+![Outcome Based on Campaign Categories](https://user-images.githubusercontent.com/88128466/129490429-46450332-34a8-4121-831f-0e905af82f00.png)
+### Analysis of outcomes based on Theater Subcategories
+![Outcome Based on Theater Categories](https://user-images.githubusercontent.com/88128466/129490455-0365fc03-e093-4804-8db9-91269cad56de.png)
+### Analysis of Descriptive Statistics of Successful and Failed Campaigns
+![Descriptive Statistics](https://user-images.githubusercontent.com/88128466/129490481-f1af891c-3b5d-48e6-9155-3ed552ab2122.png)
+### Analysis of five Edinburgh Festival Plays
+![Descriptive Statistics](https://user-images.githubusercontent.com/88128466/129490700-d159ada2-04a7-4f3b-8d29-be3a151bde5b.png)
+Challenges encountered Outliers
+![Outlier Analysis Chart](https://user-images.githubusercontent.com/88128466/129490726-0dad6648-0b37-4fd2-bd28-08bdd8cc7bde.PNG)
+## Results
+### February, May, and June are the top three months for successful campaigns
+### January, July and October are the top three months for failed campaigns
+### Theater campaigns are the most campaigns, followed by Music and film categories
+### In the Theater Category, Plays are the most successful campaigns having huge margin over Musicals and Spaces
+### Descriptive Statistics results show that failed Kickstarter campaigns have much higher fundraising goals than successful Kickstarter campaigns. Also, Louise Kickstarter goal is more than twice the average successful Kickstarter goal, so this doesn't look good. 
+### Results from measure of Spread analysis shows that some large values, i.e., outliers are driving all of these distributions 
+
+
